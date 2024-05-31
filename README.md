@@ -1,6 +1,6 @@
 Hi, I’m @RTWiley.
 
-I’m interested in and in database design, and in programing in java, javascript, and python.
+I’m especially interested in database design, and I enjoy programing in java, javascript, and python.
 
 I’m currently working on an REU with Virginia Commonwealth University.
 
