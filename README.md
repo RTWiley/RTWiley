@@ -1,8 +1,8 @@
 Hi, I’m @RTWiley.
 
-I’m especially interested in database design, and I enjoy programing in java, javascript, and python.
+I’m especially interested in database design, and I enjoy programing in java, javascript, and python. I'm learning about network security.
 
-I’m currently working on an REU with Virginia Commonwealth University.
+I’m currently in my junior year of college.
 
 Pronouns: she/her
 
